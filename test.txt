@@ -1,5 +1,5 @@
 aaaa
 bbbb
-cc xx ee ff
+cc ee ff
 zz
 zz

@@ -8,3 +8,4 @@ nnnnn nnn
 yayaya
 update-base
 update-br1
+update-br12

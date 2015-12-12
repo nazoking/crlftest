@@ -7,3 +7,4 @@ nnnnn nnn
 
 yayaya
 update-base
+update-br2
